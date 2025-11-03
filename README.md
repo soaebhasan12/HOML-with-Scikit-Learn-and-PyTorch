@@ -1,7 +1,5 @@
 # Hands-On Machine Learning with Scikit-Learn and PyTorch
 
-![Book Cover](https://github.com/soaebhasan12/HOML-with-Scikit-Learn-and-PyTorch/blob/main/images/book-cover.png)
-
 ## 📚 About This Repository
 
 This repository contains my daily learning journey through **"Hands-On Machine Learning with Scikit-Learn and PyTorch"** by *Aurélien Géron*. 
